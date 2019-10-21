@@ -1,5 +1,6 @@
 package com.craftsvilla.testscripts;
 
-public class LinenSareesScript {
+public class LinenSareesScript 
+{
 
 }

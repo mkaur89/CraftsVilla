@@ -23,4 +23,9 @@ public class DemoTest extends BaseTest
 				//.selectPrice1000To2000();
 				//.selectPrice500To1000();
 	}
+	@Test
+	public void tc_02_fakeTest()
+	{
+		
+	}
 }

@@ -1,6 +1,8 @@
 package com.craftsvilla.testscripts;
 
-public class LinenSareesScript 
-{
+import com.craftsvilla.generic.BaseTest;
 
+public class LinenSareesScript extends BaseTest 
+{
+	
 }

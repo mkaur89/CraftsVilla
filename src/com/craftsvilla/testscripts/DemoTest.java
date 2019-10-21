@@ -26,6 +26,6 @@ public class DemoTest extends BaseTest
 	@Test
 	public void tc_02_fakeTest()
 	{
-		
+		//method to check commit
 	}
 }
